@@ -1,0 +1,36 @@
+body {
+    background-image: url(white-crumpled-paper-220634.jpg);
+    background-size: cover;
+}
+
+.jumbotron {
+    background-image: url(closeup-photo-of-assorted-title-books-1122865.jpg);
+    box-shadow: 10px;
+    font-family: 'Lobster', cursive;
+    color: white;
+    background-position: center;
+    background-size: 60% 100%;
+    box-shadow: 10px 10px 10px black; 
+}
+
+.display-4 {
+    background-color: transparent;
+    text-align: center;
+}
+
+.container-fluid {
+    width: 80%;
+    background-image: url(white);
+    background-color: #7d525c;
+    background-size: cover;
+    border-radius: 10px;
+    color: white;
+    box-shadow: 10px 10px 20px black;
+}
+
+.btn {
+    color: white;
+    background-color: #573144;
+    border: 2px solid white;
+    border-radius: 15px;
+}
